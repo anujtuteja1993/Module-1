@@ -30,4 +30,4 @@ console.log(Sum(40,10));
 console.log(Subtract(20,99));
 console.log(Multiply(5,2.6784));
 console.log(Divide(1,100));
-console.log(concatName('Anuj'))
+console.log(concatName('Anuj'));
