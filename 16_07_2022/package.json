@@ -1,0 +1,15 @@
+{
+  "name": "16_07_2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "sentiment": "^5.0.2"
+  }
+}
